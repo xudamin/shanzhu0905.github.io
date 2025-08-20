@@ -1,2 +1,4 @@
-# WebGL面试题
-# 算法题
+## WebGL面试题
+[点击查看](/_posts/webgl-interview.md)
+
+## 算法题

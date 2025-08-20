@@ -1,3 +1,5 @@
-## [WebGL面试题](./_posts/webgl-interview.md#WebGL-interview)
+# 博客
 
-## [算法题]()
+## WebGL面试题
+
+## 算法题
